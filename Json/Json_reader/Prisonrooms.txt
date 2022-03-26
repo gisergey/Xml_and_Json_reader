@@ -1,0 +1,1 @@
+[{"Id":0,"Number_of_residents":4,"Max_of_residents":7},{"Id":1,"Number_of_residents":3,"Max_of_residents":6},{"Id":2,"Number_of_residents":2,"Max_of_residents":4},{"Id":3,"Number_of_residents":3,"Max_of_residents":6},{"Id":4,"Number_of_residents":4,"Max_of_residents":7},{"Id":5,"Number_of_residents":0,"Max_of_residents":3},{"Id":6,"Number_of_residents":3,"Max_of_residents":6}]

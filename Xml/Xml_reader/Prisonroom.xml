@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<ArrayOfPrisonroom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Prisonroom>
+    <Id>0</Id>
+    <Number_of_residents>4</Number_of_residents>
+    <Max_of_residents>7</Max_of_residents>
+  </Prisonroom>
+  <Prisonroom>
+    <Id>1</Id>
+    <Number_of_residents>1</Number_of_residents>
+    <Max_of_residents>5</Max_of_residents>
+  </Prisonroom>
+  <Prisonroom>
+    <Id>2</Id>
+    <Number_of_residents>2</Number_of_residents>
+    <Max_of_residents>6</Max_of_residents>
+  </Prisonroom>
+  <Prisonroom>
+    <Id>3</Id>
+    <Number_of_residents>2</Number_of_residents>
+    <Max_of_residents>3</Max_of_residents>
+  </Prisonroom>
+  <Prisonroom>
+    <Id>4</Id>
+    <Number_of_residents>0</Number_of_residents>
+    <Max_of_residents>3</Max_of_residents>
+  </Prisonroom>
+</ArrayOfPrisonroom>

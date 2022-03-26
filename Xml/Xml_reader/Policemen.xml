@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<ArrayOfPoliceman xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Policeman>
+    <Name>Визель</Name>
+    <age>40</age>
+    <Id>1</Id>
+    <Salary>201470</Salary>
+  </Policeman>
+  <Policeman>
+    <Name>Сергей</Name>
+    <age>65</age>
+    <Id>2</Id>
+    <Salary>16323</Salary>
+  </Policeman>
+  <Policeman>
+    <Name>Визель</Name>
+    <age>52</age>
+    <Id>3</Id>
+    <Salary>190702</Salary>
+  </Policeman>
+  <Policeman>
+    <Name>Александра</Name>
+    <age>18</age>
+    <Id>4</Id>
+    <Salary>62624</Salary>
+  </Policeman>
+  <Policeman>
+    <Name>Визель</Name>
+    <age>35</age>
+    <Id>5</Id>
+    <Salary>38786</Salary>
+  </Policeman>
+</ArrayOfPoliceman>
